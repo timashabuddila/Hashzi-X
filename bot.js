@@ -284,9 +284,12 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
          
         while (getGMTh == 19 && getGMTm == 1) {
             var announce = ''
-            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement SYSTEM 🔘'
-            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾නිවේදන පද්ධතිය 🔘'
-            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement System 🔘'
+            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰ɢᴏʟᴅᴇɴ ʙᴏʏ
+                   ʙᴏᴛ👩‍🦰◉◉ \n👾Announcement SYSTEM 🔘'
+            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰ɢᴏʟᴅᴇɴ ʙᴏʏ
+                   ʙᴏᴛ👩‍🦰◉◉ \n👾නිවේදන පද්ධතිය 🔘'
+            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰ɢᴏʟᴅᴇɴ ʙᴏʏ
+                   ʙᴏᴛ👩‍🦰◉◉ \n👾Announcement System 🔘'
             
             let video = 'https://imgur.com/u9LLLGV.mp4'
             let image = 'https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg'

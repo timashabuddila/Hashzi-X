@@ -8,7 +8,7 @@
 </a>
 
 ![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b>Queen alexa (ᴠɪᴘ) </b></h1>
 
 </a>
              
@@ -17,14 +17,14 @@
 
 </a>
 <p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of  🧚Queen Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. QUEEN-Alexa යනු ලංකාවෙ අලුත්ම සුපිරි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4">Support Group</a> |
+        <a href="https://Wa.me/+94 77 358 5511">Black Shado Whatsapp </a> |
    </a>    
         
   <p align="center">
-<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+<a href="wa.me/+94 77 358 5511_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
 </p>
    </a>
 </p>
@@ -88,14 +88,7 @@
 ```
 bash <(curl -L https://tinyurl.com/ALEXA-session) 
 ```
-##### ඉහත කේතය Copy කරගෙන termux එකෙ paste කරලා Run කරන්න.
 
-### [NOTE ❓]
-```
-Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
-ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
-ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
-පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
@@ -105,7 +98,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 > [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Amazone පහසුකම් ලැයිස්තුව
+# 🚀Alexaපහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">

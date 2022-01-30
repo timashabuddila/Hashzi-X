@@ -137,7 +137,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[!Timasha)
 
  ***Black_Shado(Timasha-X😈)***
 <a href="https://Wa.me/+94773585511">
@@ -169,4 +169,13 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://Wa.me+94773585511/) 
 [![Find On Whatsapp ](https://Wa.me+94715264791/)
 [![Find On Whatsapp ](https://Wa.me+94771920675/) 
+
+
+
+Queen alexa is the whatsapp bot project.
+it can help us to any work in some command.
+This is a best whatsapp robot with artificial intelligent.
+
+🧚‍♀️Thanks For using QUEEN ALEXA💫
+⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
 
